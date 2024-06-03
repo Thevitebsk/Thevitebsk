@@ -4,4 +4,6 @@ you can talk with me in discord through fuckyoudiscorg or thevitebskman
 
 i am male
 
-and here's a fun fact:I am working on a website of my programlang
+i love making esolangs. and some other stuff
+
+and here's a fun fact:🇦🇫
