@@ -8,9 +8,9 @@ i love making esolangs. and some other stuff
 
 and here's a fun fact:
 ```
-4METC=False
-if 4METC!=True:
+FMETC=False
+if FMETC!=True:
     print("Turing incomplete")
-if 4ME==True:
+if FMETC==True:
     print("Turing complete")
 ```
