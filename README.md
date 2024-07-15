@@ -8,7 +8,7 @@ i love making esolangs. and some other stuff
 
 and here's a fun fact:
 ```
-FMETC=False
+FMETC="Unknown Computational Class"
 if FMETC!=True:
     print("Turing incomplete")
 if FMETC==True:
