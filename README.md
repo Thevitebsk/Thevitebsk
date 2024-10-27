@@ -6,4 +6,4 @@ i am male
 
 i love making esolangs. and some other stuff
 
-and here's a fun fact:uhh
+and here's a fun fact:i didn't expect one of the creators of Vyxal to folow me
