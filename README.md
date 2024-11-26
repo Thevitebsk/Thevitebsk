@@ -1,8 +1,8 @@
 ey it is me gaham
 
-you can talk with me in discord through belarusianflag or thevitebskman
+i am a 13 year old male belarusian citizen
 
-i am male
+you can talk with me in discord through belarusianflag or thevitebskman
 
 i love making esolangs. and some other stuff
 
