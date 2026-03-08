@@ -2,9 +2,9 @@
 
 oh hey you found my github acount
 
-i am a 14 year old male belarusian citizen
+i am a 15 year old male belarusian citizen
 
-you can talk with me in discord through mrglebsun
+you can talk with me in discord through glebovsky_
 
 making esolangs is my passion
 
